@@ -7,7 +7,7 @@ export function EmptyMemories() {
           target="_blank"
           rel="noopener"
           className="underline transition-colors hover:text-gray-50"
-          href=""
+          href="/memories/new"
         >
           criar agora
         </a>
